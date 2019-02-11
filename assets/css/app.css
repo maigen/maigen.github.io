@@ -6501,9 +6501,6 @@ body .essentials-section {
   @media screen and (max-width: 74.99875em) {
     .hero-section {
       height: 70vh; } }
-  @media screen and (max-width: 63.99875em) {
-    .hero-section {
-      height: 40vh; } }
   @media screen and (max-width: 39.99875em) {
     .hero-section {
       height: 28vh; } }
